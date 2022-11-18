@@ -1,0 +1,22 @@
+{
+  "name": "module-8-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romX10/Module-8-Challenge/issues"
+  },
+  "homepage": "https://github.com/romX10/Module-8-Challenge#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
